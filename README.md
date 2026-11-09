@@ -84,6 +84,11 @@ Optionally:
 
 <p align="right">(<a href="#lotus-pricing--packaging-infrastructure-for-any-business-model">back to top</a>)</p>
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Lotus/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://www.heroku.com/deploy?template=https://github.com/uselotus/lotus"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku" height="42"></a>
+
 <!-- CONTRIBUTING -->
 
 ## Contributing
